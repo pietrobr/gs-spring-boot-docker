@@ -11,7 +11,7 @@ public class Application {
 
     @RequestMapping("/")
     public String home() {
-        return "Hello Docker World from Azure and Jankins 9";
+        return "Hello Docker World from Azure and Jankins 10";
     }
 
     public static void main(String[] args) {
